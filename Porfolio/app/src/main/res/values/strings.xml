@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">"Porfolio "</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Guillotine</string>
+    <string name="bio">BIO</string>
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="blog">BLOG</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="hobbies">HOBBIES</string>
+    <string name="action_settings">settings</string>
 </resources>
