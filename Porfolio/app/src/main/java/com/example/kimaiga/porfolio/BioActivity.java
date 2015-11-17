@@ -69,7 +69,7 @@ public class BioActivity extends AppCompatActivity {
             public void onClick(View v) {
                 switch (v.getId()) {
                     case R.id.bio_group:
-                        Intent b = new Intent(BioActivity.this, BioActivity.class);
+                        Intent b = new Intent(BioActivity.this, BlogActivity.class);
                         startActivity(b);
                         break;
                 }
