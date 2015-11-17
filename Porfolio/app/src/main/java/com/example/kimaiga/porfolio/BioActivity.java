@@ -9,6 +9,11 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
+import com.yalantis.guillotine.animation.GuillotineAnimation;
+
+import butterknife.ButterKnife;
+import butterknife.InjectView;
+
 /**
  * Created by moses on 11/17/15.
  */
@@ -77,7 +82,7 @@ public class BioActivity extends AppCompatActivity {
             public void onClick(View v) {
                 switch (v.getId()) {
                     case R.id.portfolio_group:
-                        Intent c = new Intent(MainActivity.this, ProfileActivity.class);
+                        Intent c = new Intent(BioActivity.this, PortfolioActivity.class);
                         startActivity(c);
                         break;
                 }
@@ -90,7 +95,7 @@ public class BioActivity extends AppCompatActivity {
             public void onClick(View v) {
                 switch (v.getId()) {
                     case R.id.blog_group:
-                        Intent d = new Intent(MainActivity.this, BlogActivity.class);
+                        Intent d = new Intent(BioActivity.this, BlogActivity.class);
                         startActivity(d);
                         break;
                 }

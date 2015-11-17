@@ -5,4 +5,5 @@
     <string name="blog">BLOG</string>
     <string name="contacts">CONTACTS</string>
     <string name="hobbies">HOBBIES</string>
+    <string name="action_settings">settings</string>
 </resources>
