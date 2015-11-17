@@ -107,7 +107,7 @@ public class BioActivity extends AppCompatActivity {
             public void onClick(View v) {
                 switch (v.getId()) {
                     case R.id.contacts_group:
-                        Intent e = new Intent(MainActivity.this, ContactsActivity.class);
+                        Intent e = new Intent(BioActivity.this, ContactsActivity.class);
                         startActivity(e);
                         break;
                 }
@@ -119,7 +119,7 @@ public class BioActivity extends AppCompatActivity {
             public void onClick(View v) {
                 switch (v.getId()) {
                     case R.id.hobbies_group:
-                        Intent f = new Intent(MainActivity.this, HobbiesActivity.class);
+                        Intent f = new Intent(BioActivity.this, HobbiesActivity.class);
                         startActivity(f);
                         break;
                 }
