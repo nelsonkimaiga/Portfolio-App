@@ -34,6 +34,7 @@
           <State>
             <id />
           </State>
+<<<<<<< HEAD
           <State>
             <id>Android Lint</id>
           </State>
@@ -41,6 +42,12 @@
         <selected-state>
           <State>
             <id>Android Lint</id>
+=======
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+>>>>>>> 5412454dcce117ab919d279d08ac068aad8d6bca
           </State>
         </selected-state>
       </profile-state>
@@ -62,11 +69,39 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="masterDetails">
     <states>
+=======
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+>>>>>>> 5412454dcce117ab919d279d08ac068aad8d6bca
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
