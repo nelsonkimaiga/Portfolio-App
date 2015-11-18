@@ -5,12 +5,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 
 
-public class SplashScreen extends AppCompatActivity {
+public class LoginScreen extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.content_splash_screen);
+        setContentView(R.layout.login_screen);
 
     }
 

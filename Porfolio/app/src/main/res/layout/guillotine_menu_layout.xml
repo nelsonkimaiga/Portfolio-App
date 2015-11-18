@@ -54,7 +54,7 @@
 
         <ImageView
             style="@style/ImageView.GuillotineItem"
-            android:src="@drawable/ic_activity_active" />
+            android:src="@drawable/ic_feed" />
 
         <com.yalantis.guillotine.sample.widget.CanaroTextView
             style="@style/TextView.GuillotineItem.Selected"

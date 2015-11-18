@@ -1,10 +1,10 @@
-package com.example.kimaiga.porfolio;
+package com.yalantis.guillotine.sample;
 
 import android.app.Application;
 import android.graphics.Typeface;
 
 /**
- * Created by moses on 11/17/15.
+ * Created by Dmytro Denysenko on 5/6/15.
  */
 public class App extends Application {
     private static final String CANARO_EXTRA_BOLD_PATH = "fonts/canaro_extra_bold.otf";

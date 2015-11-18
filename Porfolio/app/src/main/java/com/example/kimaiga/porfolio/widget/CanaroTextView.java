@@ -1,13 +1,13 @@
-package com.example.kimaiga.porfolio.widget;
+package com.yalantis.guillotine.sample.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.example.kimaiga.porfolio.App;
+import com.yalantis.guillotine.sample.App;
 
 /**
- * Created by moses on 11/17/15.
+ * Created by Dmytro Denysenko on 5/6/15.
  */
 public class CanaroTextView extends TextView {
     public CanaroTextView(Context context) {
