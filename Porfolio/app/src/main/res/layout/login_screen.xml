@@ -9,4 +9,13 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
 
+    <com.twitter.sdk.android.core.identity.TwitterLoginButton
+        android:id="@+id/twitter_login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
+
+
+
+
 </RelativeLayout>
